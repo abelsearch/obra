@@ -1,6 +1,5 @@
-<?php 
-session_start(); 
-?> 
+<?php include('smenu.php'); ?>
+<?php include('menu.php'); ?>
 
 <!DOCTYPE html>
 <html>
@@ -21,15 +20,15 @@ session_start();
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     
 
-    <title>Clientes</title>
+    <title>Adicionales</title>
   </head>
   <body> 
-  <?php include('menu.php'); ?> 
+  <?php include('smenu.php'); ?> 
     <div class="container">  
     <div class="row"> 
     <div class="col m12">  
     <div id="title"> 
-    <h2 class="form-signin-heading"> SERVICIOS ADICIONALES</h2> 
+    <h2 class="form-signin-heading"> CONCEPTOS ADICIONALES</h2> 
     </div>
         <table class="striped responsive-table centered" id="example"> 
     <thead>
@@ -54,7 +53,7 @@ session_start();
       <td><?php echo $row['precio']; ?></td> 
       <td align="center">  
       <center>
-      <a id="<?php echo $row['id']; ?>" class="eliminar" href="#" title="Eliminar">
+      <a id="<?php echo $row['id']; ?>" class="eliminar tooltipped" data-position="top" data-tooltip="Eliminar" href="#">
       <i class="material-icons red-text  center">delete</i> 
       </a>
       </center>

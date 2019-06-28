@@ -1,0 +1,16 @@
+[23-May-2019 15:51:25 America/Mexico_City] PHP Parse error:  syntax error, unexpected '>' in /home/seicolag/public_html/sistema/crud_proveedor/proveedor_excel.php on line 118
+[24-May-2019 16:09:47 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/crud_proveedor/proveedor_excel.php:115) in /home/seicolag/public_html/sistema/crud_proveedor/proveedor_excel.php on line 122
+[24-May-2019 16:16:28 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'button' (T_STRING) in /home/seicolag/public_html/sistema/crud_proveedor/proveedor_excel.php on line 117
+[24-May-2019 16:23:30 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}' in /home/seicolag/public_html/sistema/crud_proveedor/proveedor_excel.php on line 121
+[24-May-2019 16:25:07 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}' in /home/seicolag/public_html/sistema/crud_proveedor/proveedor_excel.php on line 126
+[24-May-2019 16:30:01 America/Mexico_City] PHP Notice:  Undefined variable: rfc in /home/seicolag/public_html/sistema/crud_proveedor/proveedor_excel.php on line 89
+[24-May-2019 16:30:01 America/Mexico_City] PHP Notice:  Undefined variable: razon_social in /home/seicolag/public_html/sistema/crud_proveedor/proveedor_excel.php on line 90
+[24-May-2019 16:30:01 America/Mexico_City] PHP Notice:  Undefined variable: nombre in /home/seicolag/public_html/sistema/crud_proveedor/proveedor_excel.php on line 91
+[24-May-2019 16:30:01 America/Mexico_City] PHP Notice:  Undefined variable: domicilio in /home/seicolag/public_html/sistema/crud_proveedor/proveedor_excel.php on line 92
+[24-May-2019 16:30:01 America/Mexico_City] PHP Notice:  Undefined variable: contacto in /home/seicolag/public_html/sistema/crud_proveedor/proveedor_excel.php on line 93
+[24-May-2019 16:30:01 America/Mexico_City] PHP Notice:  Undefined variable: correo in /home/seicolag/public_html/sistema/crud_proveedor/proveedor_excel.php on line 94
+[24-May-2019 16:30:01 America/Mexico_City] PHP Notice:  Undefined variable: telefono in /home/seicolag/public_html/sistema/crud_proveedor/proveedor_excel.php on line 95
+[24-May-2019 16:30:01 America/Mexico_City] PHP Notice:  Undefined variable: ciudad in /home/seicolag/public_html/sistema/crud_proveedor/proveedor_excel.php on line 96
+[24-May-2019 16:30:01 America/Mexico_City] PHP Notice:  Undefined variable: estado in /home/seicolag/public_html/sistema/crud_proveedor/proveedor_excel.php on line 98
+[24-May-2019 16:48:44 America/Mexico_City] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/seicolag/public_html/sistema/library/SpreadsheetReader_XLSX.php on line 1056
+[27-May-2019 10:19:52 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/seicolag/public_html/sistema/crud_proveedor/proveedor_excel.php on line 113

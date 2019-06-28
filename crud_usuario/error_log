@@ -1,0 +1,8 @@
+[13-May-2019 13:37:27 America/Mexico_City] PHP Parse error:  syntax error, unexpected ';' in /home/seicolag/public_html/sistema/crud_usuario/retirar.php on line 10
+[13-May-2019 13:38:27 America/Mexico_City] PHP Parse error:  syntax error, unexpected ';' in /home/seicolag/public_html/sistema/crud_usuario/retirar.php on line 10
+[13-May-2019 13:40:05 America/Mexico_City] PHP Parse error:  syntax error, unexpected ';' in /home/seicolag/public_html/sistema/crud_usuario/retirar.php on line 10
+[13-May-2019 13:56:44 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}' in /home/seicolag/public_html/sistema/crud_usuario/retirar.php on line 12
+[14-May-2019 15:01:13 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/seicolag/public_html/sistema/crud_usuario/ver.php on line 74
+[14-May-2019 15:02:11 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/seicolag/public_html/sistema/crud_usuario/ver.php on line 74
+[14-May-2019 15:29:50 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/seicolag/public_html/sistema/crud_usuario/ver.php on line 82
+[12-Jun-2019 11:29:25 America/Mexico_City] PHP Parse error:  syntax error, unexpected '"<td>"' (T_CONSTANT_ENCAPSED_STRING) in /home/seicolag/public_html/sistema/crud_usuario/ver.php on line 42

@@ -36,11 +36,10 @@ if($_POST)
 
 	if($stmt->execute())
 	{
-		//header("http://127.0.0.1/PHP-AJAX/cliente_index.php"); 
-
+	header("Refresh: 1; http://seicolaguna.com/sistema/cliente_index.php"); 
 	}
 	else{
-		echo "Query Problem";
+		echo "Ocurrio un problema al editar el Cliente!!!";
 	}
 }
 ?>

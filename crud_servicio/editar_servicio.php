@@ -12,7 +12,7 @@ if($_POST)
 	
 
 try{ 
-	$stmt=$db_con->prepare("UPDATE servicio SET
+	$stmt=$db_con->prepare("UPDATE concepto SET
 	clave_sat = '$clave_sat', 
 	clave_interna = '$clave_interna',
 	descripcion = '$descripcion',

@@ -12,7 +12,7 @@ $response = "<center><form>";
 //while( $row = mysqli_fetch_array($result) )
 $row=$stmt->fetch(PDO::FETCH_ASSOC);{
 $id = $row['id'];
-$nombre=$row['nombre']; 
+$nombre_usuario=$row['nombre_usuario']; 
 $password=$row['password'];  
 $tipo=$row['tipo'];
  
@@ -21,12 +21,10 @@ $tipo=$row['tipo'];
  //$response .= "</div>"; 
 
  //$response .= "<center>";
- $response .= "<b>Nombre:</b> <input type=".'text'." id=".'nombre2'."  value='".$nombre."' style=".'border:none;'."".'text-align:center;'.">";
- //$response .= "</center>";
+ $response .= "<b>Nombre:</b> <input type=".'text'." id=".'nombre2'."  value='".$nombre_usuario."' style=".'border:none;'."".'text-align:center;'.">";
+ //$response .= "</center>"; 
 
- //$response .= "<tr>";
- $response .= "<b>Password:</b> <input type=".'text'." id=".'password2'." value='".$password."' style=".'border:none;'."".'text-align:center;'.">";
- //$response .= "</tr>";
+ $response .= "<b>Password:</b> <input type=".'text'." id=".'pass2'."  value='".$password."' style=".'border:none;'."".'text-align:center;'.">";
 
  //$response .= "<tr>";
  $response .= "<b>Tipo de usuario:</b> <input type=".'text'."  value='".$tipo."' style=".'border:none;'."".'text-align:center;'." readonly>";

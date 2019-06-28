@@ -1,0 +1,60 @@
+[22-Feb-2019 18:39:06 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user '@seicolagc@@'@'mx28.hostgator.mx' (using password: NO) in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_orden.php on line 8
+[23-Feb-2019 23:13:31 America/Mexico_City] PHP Parse error:  syntax error, unexpected ';' in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos.php on line 20
+[23-Feb-2019 23:13:37 America/Mexico_City] PHP Parse error:  syntax error, unexpected ';' in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos.php on line 20
+[23-Feb-2019 23:14:05 America/Mexico_City] PHP Parse error:  syntax error, unexpected ';' in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos.php on line 20
+[23-Feb-2019 23:14:49 America/Mexico_City] PHP Parse error:  syntax error, unexpected ';' in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos.php on line 20
+[24-Feb-2019 00:40:21 America/Mexico_City] PHP Parse error:  syntax error, unexpected ']' in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos.php on line 30
+[24-Feb-2019 00:41:07 America/Mexico_City] PHP Parse error:  syntax error, unexpected ']' in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos.php on line 30
+[24-Feb-2019 00:43:41 America/Mexico_City] PHP Parse error:  syntax error, unexpected ']' in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos.php on line 30
+[24-Feb-2019 00:43:55 America/Mexico_City] PHP Parse error:  syntax error, unexpected ']' in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos.php on line 30
+[24-Feb-2019 00:44:28 America/Mexico_City] PHP Parse error:  syntax error, unexpected '"' in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos.php on line 30
+[24-Feb-2019 00:44:47 America/Mexico_City] PHP Parse error:  syntax error, unexpected '"' in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos.php on line 30
+[24-Feb-2019 01:09:23 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos.php on line 35
+[24-Feb-2019 01:09:34 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos.php on line 35
+[24-Feb-2019 01:31:14 America/Mexico_City] PHP Parse error:  syntax error, unexpected '.' in /home/seicolag/public_html/sistema/crud_orden_compra/crear_orden.php on line 19
+[15-Mar-2019 16:38:25 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/seicolag/public_html/sistema/crud_orden_compra/obtener_stock_insumo.php on line 41
+[19-Mar-2019 15:38:47 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'add' (T_STRING) in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos_stock.php on line 39
+[19-Mar-2019 15:38:51 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'add' (T_STRING) in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos_stock.php on line 39
+[19-Mar-2019 23:19:09 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'add' (T_STRING) in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos_stock.php on line 39
+[20-Mar-2019 11:21:17 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$arreglo' (T_VARIABLE) in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos_stock.php on line 38
+[20-Mar-2019 11:29:48 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'add' (T_STRING) in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos_stock.php on line 47
+[20-Mar-2019 11:29:59 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'add' (T_STRING) in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos_stock.php on line 47
+[20-Mar-2019 14:00:46 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$arreglo' (T_VARIABLE) in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos_stock.php on line 40
+[20-Mar-2019 14:04:52 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$arreglo' (T_VARIABLE) in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos_stock.php on line 40
+[20-Mar-2019 14:36:29 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$arreglo' (T_VARIABLE) in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos_stock.php on line 40
+[20-Mar-2019 14:45:28 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$arreglo' (T_VARIABLE) in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos_stock.php on line 40
+[20-Mar-2019 14:57:28 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$arreglo' (T_VARIABLE) in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos_stock.php on line 40
+[20-Mar-2019 14:59:17 America/Mexico_City] PHP Parse error:  syntax error, unexpected ''text'' (T_CONSTANT_ENCAPSED_STRING) in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos_stock.php on line 39
+[20-Mar-2019 15:00:17 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'text' (T_STRING) in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos_stock.php on line 39
+[20-Mar-2019 15:01:40 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$arreglo' (T_VARIABLE) in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos_stock.php on line 40
+[20-Mar-2019 15:06:18 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$arreglo' (T_VARIABLE) in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos_stock.php on line 40
+[20-Mar-2019 15:20:03 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos_stock.php on line 39
+[20-Mar-2019 15:22:00 America/Mexico_City] PHP Parse error:  syntax error, unexpected ''.$row['' (T_CONSTANT_ENCAPSED_STRING) in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos_stock.php on line 39
+[20-Mar-2019 15:22:08 America/Mexico_City] PHP Parse error:  syntax error, unexpected ''.$row['' (T_CONSTANT_ENCAPSED_STRING) in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos_stock.php on line 39
+[20-Mar-2019 15:27:21 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'text' (T_STRING) in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos_stock.php on line 39
+[20-Mar-2019 15:27:40 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'text' (T_STRING) in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos_stock.php on line 39
+[20-Mar-2019 15:31:06 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$arreglo' (T_VARIABLE) in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos_stock.php on line 40
+[20-Mar-2019 15:32:39 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'text' (T_STRING) in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos_stock.php on line 39
+[20-Mar-2019 15:34:01 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'text' (T_STRING) in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos_stock.php on line 39
+[20-Mar-2019 15:35:10 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$arreglo' (T_VARIABLE) in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos_stock.php on line 40
+[20-Mar-2019 15:36:13 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$arreglo' (T_VARIABLE) in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos_stock.php on line 40
+[20-Mar-2019 15:38:56 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$arreglo' (T_VARIABLE) in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos_stock.php on line 40
+[20-Mar-2019 15:41:03 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$arreglo' (T_VARIABLE) in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos_stock.php on line 38
+[20-Mar-2019 15:51:14 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$arreglo' (T_VARIABLE) in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos_stock.php on line 38
+[20-Mar-2019 15:54:53 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$arreglo' (T_VARIABLE) in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos_stock.php on line 38
+[20-Mar-2019 15:57:24 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$arreglo' (T_VARIABLE) in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos_stock.php on line 38
+[20-Mar-2019 15:59:43 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'border' (T_STRING) in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos_stock.php on line 37
+[22-Mar-2019 15:33:27 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/seicolag/public_html/sistema/crud_orden_compra/editar.php on line 47
+[22-Mar-2019 15:49:31 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/seicolag/public_html/sistema/crud_orden_compra/editar.php on line 47
+[22-Mar-2019 15:53:18 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/seicolag/public_html/sistema/crud_orden_compra/editar.php on line 16
+[22-Mar-2019 15:55:45 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/seicolag/public_html/sistema/crud_orden_compra/editar.php on line 53
+[22-Mar-2019 16:00:43 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/seicolag/public_html/sistema/crud_orden_compra/editar.php on line 53
+[22-Mar-2019 16:02:50 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/seicolag/public_html/sistema/crud_orden_compra/editar.php on line 50
+[25-Mar-2019 10:54:58 America/Mexico_City] PHP Parse error:  syntax error, unexpected '.' in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos_stock.php on line 33
+[25-Mar-2019 11:01:09 America/Mexico_City] PHP Parse error:  syntax error, unexpected '.' in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos_stock.php on line 33
+[25-Mar-2019 19:50:51 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/seicolag/public_html/sistema/crud_orden_compra/obtener_totales_folio.php on line 19
+[26-Mar-2019 01:01:06 America/Mexico_City] PHP Parse error:  syntax error, unexpected ')' in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos_stock.php on line 30
+[26-Mar-2019 01:01:34 America/Mexico_City] PHP Parse error:  syntax error, unexpected ')' in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos_stock.php on line 30
+[26-Mar-2019 01:01:37 America/Mexico_City] PHP Parse error:  syntax error, unexpected ')' in /home/seicolag/public_html/sistema/crud_orden_compra/mostrar_insumos_stock.php on line 30
+[26-Mar-2019 16:02:39 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/seicolag/public_html/sistema/crud_orden_compra/ingresar_stock.php on line 23
+[28-Mar-2019 16:18:10 America/Mexico_City] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/seicolag/public_html/sistema/crud_orden_compra/ingresar_stock.php on line 21

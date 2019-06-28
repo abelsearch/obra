@@ -4,10 +4,10 @@ header('Content-Type: application/json');
 require_once 'db_config.php'; 
 //database
 //database
-define('DB_HOST', 'localhost');
-define('DB_USERNAME', 'root');
-define('DB_PASSWORD', '');
-define('DB_NAME', 'constructora');
+define('DB_HOST', '192.185.131.25');
+define('DB_USERNAME', 'seicolag_cadmin');
+define('DB_PASSWORD', '@seicolagc@@');
+define('DB_NAME', 'seicolag_constructora');
 
 //get connection
 $mysqli = new mysqli(DB_HOST, DB_USERNAME, DB_PASSWORD, DB_NAME);
@@ -18,7 +18,7 @@ if(!$mysqli){
 
 
 //query to get data from the table
-$query = sprintf("SELECT folio,presupuesto FROM orden ORDER BY folio");
+$query = sprintf("SELECT folio,presupuesto FROM obra ORDER BY folio");
 
 //execute query
 $result = $mysqli->query($query);

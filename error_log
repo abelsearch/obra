@@ -1,0 +1,740 @@
+[20-Nov-2018 12:19:18 America/Mexico_City] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'cedegmx_adminc'@'mx28.hostgator.mx' (using password: YES) in /home/seicolag/public_html/sistema/check_login.php on line 9
+[20-Nov-2018 12:19:18 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/seicolag/public_html/sistema/check_login.php on line 10
+[20-Nov-2018 12:19:18 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/seicolag/public_html/sistema/check_login.php on line 11
+[20-Nov-2018 12:19:18 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/check_login.php:9) in /home/seicolag/public_html/sistema/check_login.php on line 26
+[20-Nov-2018 12:21:09 America/Mexico_City] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'seicolag_adminc'@'mx28.hostgator.mx' (using password: YES) in /home/seicolag/public_html/sistema/check_login.php on line 9
+[20-Nov-2018 12:21:09 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/seicolag/public_html/sistema/check_login.php on line 10
+[20-Nov-2018 12:21:09 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/seicolag/public_html/sistema/check_login.php on line 11
+[20-Nov-2018 12:21:09 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/check_login.php:9) in /home/seicolag/public_html/sistema/check_login.php on line 26
+[20-Nov-2018 12:22:52 America/Mexico_City] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'seicolag_adminc'@'mx28.hostgator.mx' (using password: YES) in /home/seicolag/public_html/sistema/check_login.php on line 9
+[20-Nov-2018 12:22:52 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/seicolag/public_html/sistema/check_login.php on line 10
+[20-Nov-2018 12:22:52 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/seicolag/public_html/sistema/check_login.php on line 11
+[20-Nov-2018 12:22:52 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/check_login.php:9) in /home/seicolag/public_html/sistema/check_login.php on line 26
+[20-Nov-2018 12:24:29 America/Mexico_City] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'seicolag_adminc'@'mx28.hostgator.mx' (using password: YES) in /home/seicolag/public_html/sistema/check_login.php on line 9
+[20-Nov-2018 12:24:29 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/seicolag/public_html/sistema/check_login.php on line 10
+[20-Nov-2018 12:24:29 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/seicolag/public_html/sistema/check_login.php on line 11
+[20-Nov-2018 12:24:29 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/check_login.php:9) in /home/seicolag/public_html/sistema/check_login.php on line 26
+[20-Nov-2018 14:13:52 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/seicolag/public_html/sistema/checklogin.php on line 10
+[20-Nov-2018 14:13:52 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cedegmx_adminc'@'mx28.hostgator.mx' (using password: YES) in /home/seicolag/public_html/sistema/checklogin.php on line 10
+[20-Nov-2018 14:17:32 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/seicolag/public_html/sistema/checklogin.php on line 10
+[20-Nov-2018 14:17:32 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cedegmx_adminc'@'mx28.hostgator.mx' (using password: YES) in /home/seicolag/public_html/sistema/checklogin.php on line 10
+[20-Nov-2018 14:19:00 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/seicolag/public_html/sistema/checklogin.php on line 10
+[20-Nov-2018 14:19:00 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'cedegmx_adminc'@'mx28.hostgator.mx' (using password: YES) in /home/seicolag/public_html/sistema/checklogin.php on line 10
+[22-Nov-2018 13:51:49 America/Mexico_City] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/seicolag/public_html/sistema/index.php:9) in /home/seicolag/public_html/sistema/menu.php on line 2
+[22-Nov-2018 13:52:34 America/Mexico_City] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/seicolag/public_html/sistema/index.php:9) in /home/seicolag/public_html/sistema/menu.php on line 2
+[22-Nov-2018 13:52:34 America/Mexico_City] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/seicolag/public_html/sistema/index.php:9) in /home/seicolag/public_html/sistema/menu.php on line 2
+[22-Nov-2018 13:58:02 America/Mexico_City] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/seicolag/public_html/sistema/index.php:9) in /home/seicolag/public_html/sistema/menu.php on line 2
+[22-Nov-2018 13:58:02 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/index.php:9) in /home/seicolag/public_html/sistema/menu.php on line 9
+[22-Nov-2018 14:00:14 America/Mexico_City] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/seicolag/public_html/sistema/index.php:9) in /home/seicolag/public_html/sistema/menu.php on line 2
+[22-Nov-2018 14:00:36 America/Mexico_City] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/seicolag/public_html/sistema/index.php:9) in /home/seicolag/public_html/sistema/menu.php on line 2
+[22-Nov-2018 14:00:36 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/index.php:9) in /home/seicolag/public_html/sistema/menu.php on line 9
+[22-Nov-2018 14:01:49 America/Mexico_City] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/seicolag/public_html/sistema/index.php:9) in /home/seicolag/public_html/sistema/menu.php on line 2
+[22-Nov-2018 14:01:49 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/index.php:9) in /home/seicolag/public_html/sistema/menu.php on line 9
+[23-Nov-2018 11:11:59 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/orden_index.php:26) in /home/seicolag/public_html/sistema/menu.php on line 9
+[26-Nov-2018 13:57:56 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'cedegmx_adminc'@'mx28.hostgator.mx' (using password: YES) in /home/seicolag/public_html/sistema/data.php on line 13
+[26-Nov-2018 13:57:56 America/Mexico_City] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/seicolag/public_html/sistema/data.php on line 24
+[26-Nov-2018 13:57:56 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data.php on line 28
+[26-Nov-2018 13:57:56 America/Mexico_City] PHP Fatal error:  Call to a member function close() on null in /home/seicolag/public_html/sistema/data.php on line 33
+[26-Nov-2018 13:57:59 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'cedegmx_adminc'@'mx28.hostgator.mx' (using password: YES) in /home/seicolag/public_html/sistema/data.php on line 13
+[26-Nov-2018 13:57:59 America/Mexico_City] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/seicolag/public_html/sistema/data.php on line 24
+[26-Nov-2018 13:57:59 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data.php on line 28
+[26-Nov-2018 13:57:59 America/Mexico_City] PHP Fatal error:  Call to a member function close() on null in /home/seicolag/public_html/sistema/data.php on line 33
+[26-Nov-2018 13:59:37 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'cedegmx_adminc'@'mx28.hostgator.mx' (using password: YES) in /home/seicolag/public_html/sistema/data.php on line 13
+[26-Nov-2018 13:59:37 America/Mexico_City] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/seicolag/public_html/sistema/data.php on line 24
+[26-Nov-2018 13:59:37 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data.php on line 28
+[26-Nov-2018 13:59:37 America/Mexico_City] PHP Fatal error:  Call to a member function close() on null in /home/seicolag/public_html/sistema/data.php on line 33
+[26-Nov-2018 14:33:58 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/cliente_index.php:28) in /home/seicolag/public_html/sistema/menu.php on line 9
+[05-Dec-2018 11:23:29 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/tsmenu.php:74) in /home/seicolag/public_html/sistema/tmenu.php on line 10
+[05-Dec-2018 12:26:57 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/tsmenu.php:74) in /home/seicolag/public_html/sistema/tmenu.php on line 10
+[05-Dec-2018 12:27:57 America/Mexico_City] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/seicolag/public_html/sistema/bitacora_orden.php:2) in /home/seicolag/public_html/sistema/tmenu.php on line 3
+[05-Dec-2018 12:58:08 America/Mexico_City] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/seicolag/public_html/sistema/tsmenu.php:20) in /home/seicolag/public_html/sistema/tmenu.php on line 3
+[05-Dec-2018 12:58:12 America/Mexico_City] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/seicolag/public_html/sistema/tsmenu.php:20) in /home/seicolag/public_html/sistema/tmenu.php on line 3
+[05-Dec-2018 12:58:49 America/Mexico_City] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/seicolag/public_html/sistema/tsmenu.php:20) in /home/seicolag/public_html/sistema/tmenu.php on line 3
+[05-Dec-2018 12:58:51 America/Mexico_City] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/seicolag/public_html/sistema/tsmenu.php:20) in /home/seicolag/public_html/sistema/tmenu.php on line 3
+[05-Dec-2018 12:59:00 America/Mexico_City] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/seicolag/public_html/sistema/tsmenu.php:20) in /home/seicolag/public_html/sistema/tmenu.php on line 3
+[05-Dec-2018 12:59:17 America/Mexico_City] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/seicolag/public_html/sistema/tsmenu.php:20) in /home/seicolag/public_html/sistema/tmenu.php on line 3
+[05-Dec-2018 13:05:06 America/Mexico_City] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/seicolag/public_html/sistema/tsmenu.php:20) in /home/seicolag/public_html/sistema/tmenu.php on line 3
+[05-Dec-2018 13:13:28 America/Mexico_City] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/seicolag/public_html/sistema/tsmenu.php:20) in /home/seicolag/public_html/sistema/tmenu.php on line 3
+[05-Dec-2018 13:15:43 America/Mexico_City] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/seicolag/public_html/sistema/tsmenu.php:20) in /home/seicolag/public_html/sistema/tmenu.php on line 3
+[05-Dec-2018 13:15:51 America/Mexico_City] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/seicolag/public_html/sistema/tsmenu.php:20) in /home/seicolag/public_html/sistema/tmenu.php on line 3
+[05-Dec-2018 13:48:05 America/Mexico_City] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/seicolag/public_html/sistema/tsmenu.php:20) in /home/seicolag/public_html/sistema/tmenu.php on line 3
+[05-Dec-2018 13:48:20 America/Mexico_City] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/seicolag/public_html/sistema/tsmenu.php:20) in /home/seicolag/public_html/sistema/tmenu.php on line 3
+[05-Dec-2018 14:15:40 America/Mexico_City] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/seicolag/public_html/sistema/tsmenu.php:2) in /home/seicolag/public_html/sistema/tsmenu.php on line 3
+[05-Dec-2018 14:17:29 America/Mexico_City] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/seicolag/public_html/sistema/tsmenu.php:2) in /home/seicolag/public_html/sistema/tsmenu.php on line 3
+[05-Dec-2018 14:17:36 America/Mexico_City] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/seicolag/public_html/sistema/tsmenu.php:2) in /home/seicolag/public_html/sistema/tsmenu.php on line 3
+[05-Dec-2018 14:17:41 America/Mexico_City] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/seicolag/public_html/sistema/tsmenu.php:2) in /home/seicolag/public_html/sistema/tsmenu.php on line 3
+[05-Dec-2018 14:17:43 America/Mexico_City] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/seicolag/public_html/sistema/tsmenu.php:2) in /home/seicolag/public_html/sistema/tsmenu.php on line 3
+[05-Dec-2018 14:18:31 America/Mexico_City] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/seicolag/public_html/sistema/tsmenu.php:2) in /home/seicolag/public_html/sistema/tsmenu.php on line 3
+[05-Dec-2018 14:18:41 America/Mexico_City] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/seicolag/public_html/sistema/tsmenu.php:2) in /home/seicolag/public_html/sistema/tsmenu.php on line 3
+[05-Dec-2018 14:18:49 America/Mexico_City] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/seicolag/public_html/sistema/tsmenu.php:2) in /home/seicolag/public_html/sistema/tsmenu.php on line 3
+[05-Dec-2018 14:19:21 America/Mexico_City] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/seicolag/public_html/sistema/tsmenu.php:2) in /home/seicolag/public_html/sistema/tsmenu.php on line 3
+[10-Dec-2018 13:55:31 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[10-Dec-2018 13:55:44 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[11-Dec-2018 11:06:54 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[11-Dec-2018 11:12:17 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[11-Dec-2018 12:28:13 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[11-Dec-2018 12:39:36 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[11-Dec-2018 13:24:03 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[11-Dec-2018 13:44:06 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[12-Dec-2018 11:18:13 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[12-Dec-2018 12:13:29 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[12-Dec-2018 12:44:04 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[12-Dec-2018 17:44:30 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[12-Dec-2018 18:02:48 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[13-Dec-2018 12:36:24 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data.php on line 28
+[13-Dec-2018 12:36:24 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data.php on line 33
+[13-Dec-2018 12:38:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data.php on line 28
+[13-Dec-2018 12:38:15 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data.php on line 33
+[13-Dec-2018 13:18:01 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[14-Dec-2018 12:09:30 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[14-Dec-2018 12:09:34 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[14-Dec-2018 13:21:45 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[14-Dec-2018 15:37:50 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[14-Dec-2018 17:21:31 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[14-Dec-2018 17:25:58 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[14-Dec-2018 17:50:57 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[17-Dec-2018 01:22:26 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[17-Dec-2018 01:33:50 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[17-Dec-2018 12:08:08 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[17-Dec-2018 15:23:58 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[17-Dec-2018 15:28:17 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[18-Dec-2018 12:38:35 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[19-Dec-2018 01:30:15 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[19-Dec-2018 02:31:02 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[19-Dec-2018 11:08:27 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[19-Dec-2018 11:09:05 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[19-Dec-2018 16:10:07 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[19-Dec-2018 16:22:36 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[20-Dec-2018 11:20:20 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[20-Dec-2018 15:59:23 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[21-Dec-2018 12:42:21 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[21-Dec-2018 15:57:20 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[21-Dec-2018 16:53:03 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[23-Dec-2018 01:59:37 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[26-Dec-2018 02:58:43 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[26-Dec-2018 11:38:47 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[26-Dec-2018 11:38:59 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[27-Dec-2018 12:41:54 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[27-Dec-2018 13:01:30 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[27-Dec-2018 20:38:42 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[27-Dec-2018 22:16:21 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[27-Dec-2018 22:43:28 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[28-Dec-2018 00:44:44 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[28-Dec-2018 02:22:50 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[28-Dec-2018 03:36:05 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[28-Dec-2018 07:25:43 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[28-Dec-2018 09:03:12 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[28-Dec-2018 09:03:23 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[28-Dec-2018 16:22:59 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[29-Dec-2018 14:45:58 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[29-Dec-2018 14:46:09 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[31-Dec-2018 14:41:55 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[01-Jan-2019 17:55:47 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[02-Jan-2019 12:27:59 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[03-Jan-2019 14:58:10 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[03-Jan-2019 16:30:41 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[03-Jan-2019 17:55:24 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[04-Jan-2019 12:20:05 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[04-Jan-2019 12:50:18 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[06-Jan-2019 01:54:40 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[07-Jan-2019 00:39:08 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[07-Jan-2019 03:38:54 America/Mexico_City] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in /home/seicolag/public_html/sistema/obra_index.php on line 94
+[07-Jan-2019 10:51:18 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[09-Jan-2019 12:10:18 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 18
+[09-Jan-2019 12:10:27 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 10
+[09-Jan-2019 12:10:44 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 18
+[09-Jan-2019 12:10:50 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 10
+[09-Jan-2019 12:14:42 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 14
+[09-Jan-2019 12:14:51 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 14
+[09-Jan-2019 12:16:02 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 16
+[09-Jan-2019 12:16:32 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 16
+[09-Jan-2019 12:16:56 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 16
+[09-Jan-2019 12:17:05 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 16
+[09-Jan-2019 12:17:34 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 16
+[09-Jan-2019 12:19:15 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[09-Jan-2019 12:19:30 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[09-Jan-2019 12:20:43 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:17) in /home/seicolag/public_html/sistema/menu.php on line 9
+[09-Jan-2019 14:11:43 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[09-Jan-2019 15:02:52 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[10-Jan-2019 10:19:40 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[11-Jan-2019 12:18:04 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[11-Jan-2019 13:23:55 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[11-Jan-2019 14:28:05 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[11-Jan-2019 15:59:25 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[13-Jan-2019 01:36:50 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[13-Jan-2019 01:36:59 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[14-Jan-2019 10:19:33 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[15-Jan-2019 11:47:46 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[16-Jan-2019 11:06:24 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[17-Jan-2019 11:13:42 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[17-Jan-2019 11:18:19 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[18-Jan-2019 20:29:45 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[21-Jan-2019 14:22:17 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/seicolag/public_html/sistema/obra_index.php on line 362
+[21-Jan-2019 15:30:44 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}' in /home/seicolag/public_html/sistema/smenu.php on line 71
+[23-Jan-2019 15:14:50 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[24-Jan-2019 11:41:02 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[29-Jan-2019 13:14:00 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[29-Jan-2019 13:14:00 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[29-Jan-2019 17:52:31 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[08-Feb-2019 16:00:10 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[08-Feb-2019 16:00:10 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[10-Feb-2019 02:57:06 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[10-Feb-2019 02:57:06 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[10-Feb-2019 03:45:31 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[10-Feb-2019 03:45:31 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[10-Feb-2019 04:23:11 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[10-Feb-2019 04:23:11 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[10-Feb-2019 12:22:48 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[10-Feb-2019 12:22:48 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[10-Feb-2019 15:13:45 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[10-Feb-2019 15:13:45 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[11-Feb-2019 02:54:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[11-Feb-2019 02:54:15 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[11-Feb-2019 09:30:50 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[11-Feb-2019 09:30:50 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[11-Feb-2019 10:52:21 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[11-Feb-2019 10:52:21 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[11-Feb-2019 11:05:50 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[11-Feb-2019 11:05:50 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[11-Feb-2019 12:10:07 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[11-Feb-2019 12:10:07 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[11-Feb-2019 13:29:04 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[11-Feb-2019 13:29:04 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[11-Feb-2019 13:50:35 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[11-Feb-2019 13:50:35 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[11-Feb-2019 15:10:31 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[11-Feb-2019 15:10:31 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[11-Feb-2019 15:48:19 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[11-Feb-2019 15:48:19 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[12-Feb-2019 10:43:42 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[12-Feb-2019 10:43:42 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[12-Feb-2019 11:51:24 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[12-Feb-2019 11:51:24 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[12-Feb-2019 12:39:39 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[12-Feb-2019 12:39:39 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[12-Feb-2019 15:03:32 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[12-Feb-2019 15:03:32 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[12-Feb-2019 15:35:31 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[12-Feb-2019 15:35:31 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[13-Feb-2019 10:14:21 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[13-Feb-2019 10:14:21 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[13-Feb-2019 10:23:09 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[13-Feb-2019 10:23:09 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[13-Feb-2019 11:25:46 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[13-Feb-2019 11:25:46 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[13-Feb-2019 11:57:51 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[13-Feb-2019 11:57:51 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[13-Feb-2019 12:24:11 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[13-Feb-2019 12:24:11 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[13-Feb-2019 12:54:03 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[13-Feb-2019 12:54:03 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[13-Feb-2019 13:12:10 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[13-Feb-2019 13:12:10 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[13-Feb-2019 14:36:18 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[13-Feb-2019 14:36:18 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[13-Feb-2019 14:45:32 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[13-Feb-2019 14:45:32 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[13-Feb-2019 15:05:40 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[13-Feb-2019 15:05:40 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[13-Feb-2019 15:13:51 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[13-Feb-2019 15:13:51 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[13-Feb-2019 15:15:42 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[13-Feb-2019 15:15:42 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[13-Feb-2019 15:20:19 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[13-Feb-2019 15:20:19 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[13-Feb-2019 15:21:59 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[13-Feb-2019 15:21:59 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[13-Feb-2019 15:38:18 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[13-Feb-2019 15:38:18 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[13-Feb-2019 15:38:33 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[13-Feb-2019 15:38:33 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[14-Feb-2019 09:46:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[14-Feb-2019 09:46:58 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[14-Feb-2019 09:47:44 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[14-Feb-2019 09:47:44 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[14-Feb-2019 10:45:47 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[14-Feb-2019 10:45:47 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[14-Feb-2019 10:46:29 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[14-Feb-2019 10:46:29 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[14-Feb-2019 10:49:10 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[14-Feb-2019 10:49:10 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[14-Feb-2019 11:06:10 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[14-Feb-2019 11:06:10 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[14-Feb-2019 11:06:17 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[14-Feb-2019 11:06:17 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[14-Feb-2019 11:46:37 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[14-Feb-2019 11:46:37 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[14-Feb-2019 15:19:10 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[14-Feb-2019 15:19:10 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[14-Feb-2019 16:19:34 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[14-Feb-2019 16:19:34 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[15-Feb-2019 02:53:31 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[15-Feb-2019 02:53:31 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[15-Feb-2019 10:28:19 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[15-Feb-2019 10:28:20 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[15-Feb-2019 12:39:43 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[15-Feb-2019 12:39:43 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[15-Feb-2019 12:41:10 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[15-Feb-2019 12:41:10 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[15-Feb-2019 13:16:56 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[15-Feb-2019 13:16:56 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[15-Feb-2019 13:28:49 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[15-Feb-2019 13:28:49 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[15-Feb-2019 15:20:54 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[15-Feb-2019 15:20:54 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[15-Feb-2019 15:27:12 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[15-Feb-2019 15:27:12 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[15-Feb-2019 16:26:16 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[15-Feb-2019 16:26:16 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[15-Feb-2019 19:40:42 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[15-Feb-2019 19:40:42 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[18-Feb-2019 09:44:06 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[18-Feb-2019 09:44:06 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[18-Feb-2019 10:17:11 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[18-Feb-2019 10:17:11 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[18-Feb-2019 11:02:01 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[18-Feb-2019 11:02:01 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[18-Feb-2019 11:17:48 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[18-Feb-2019 11:17:48 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[18-Feb-2019 12:03:18 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[18-Feb-2019 12:03:18 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[18-Feb-2019 12:59:41 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[18-Feb-2019 12:59:41 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[18-Feb-2019 13:30:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[18-Feb-2019 13:30:58 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[18-Feb-2019 14:51:49 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[18-Feb-2019 14:51:49 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[19-Feb-2019 10:01:54 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[19-Feb-2019 10:01:54 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[19-Feb-2019 10:03:10 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[19-Feb-2019 10:03:10 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[19-Feb-2019 10:27:06 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[19-Feb-2019 10:27:06 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[19-Feb-2019 12:25:13 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[19-Feb-2019 12:25:13 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[19-Feb-2019 12:56:24 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[19-Feb-2019 12:56:24 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[19-Feb-2019 13:43:19 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[19-Feb-2019 13:43:19 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[19-Feb-2019 15:07:16 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[19-Feb-2019 15:07:16 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[19-Feb-2019 16:51:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[19-Feb-2019 16:51:58 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[19-Feb-2019 18:02:33 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[19-Feb-2019 18:02:33 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[20-Feb-2019 09:47:59 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[20-Feb-2019 09:47:59 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[20-Feb-2019 10:27:37 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[20-Feb-2019 10:27:37 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[20-Feb-2019 10:30:43 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[20-Feb-2019 10:30:43 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[20-Feb-2019 12:01:49 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[20-Feb-2019 12:01:49 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[20-Feb-2019 12:09:16 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[20-Feb-2019 12:09:16 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[20-Feb-2019 14:22:08 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[20-Feb-2019 14:22:08 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[20-Feb-2019 15:06:09 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[20-Feb-2019 15:06:09 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[20-Feb-2019 15:56:49 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[20-Feb-2019 15:56:49 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[20-Feb-2019 16:23:22 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[20-Feb-2019 16:23:22 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[20-Feb-2019 16:26:37 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[20-Feb-2019 16:26:37 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[20-Feb-2019 16:30:49 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[20-Feb-2019 16:30:49 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[20-Feb-2019 16:33:09 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[20-Feb-2019 16:33:09 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[20-Feb-2019 16:33:57 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[20-Feb-2019 16:33:57 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[20-Feb-2019 17:16:08 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/seicolag/public_html/sistema/orden_index.php on line 214
+[20-Feb-2019 17:19:47 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/seicolag/public_html/sistema/orden_index.php on line 212
+[20-Feb-2019 17:54:54 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/seicolag/public_html/sistema/orden_index.php on line 70
+[20-Feb-2019 23:13:33 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[20-Feb-2019 23:13:33 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[21-Feb-2019 09:57:09 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[21-Feb-2019 09:57:09 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[21-Feb-2019 10:01:36 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[21-Feb-2019 10:01:36 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[21-Feb-2019 10:15:17 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[21-Feb-2019 10:15:17 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[21-Feb-2019 12:16:54 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[21-Feb-2019 12:16:54 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[21-Feb-2019 13:05:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[21-Feb-2019 13:05:15 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[21-Feb-2019 14:09:57 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[21-Feb-2019 14:09:57 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[21-Feb-2019 14:21:25 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[21-Feb-2019 14:21:25 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[21-Feb-2019 23:01:34 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[21-Feb-2019 23:01:34 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[21-Feb-2019 23:04:37 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[21-Feb-2019 23:04:37 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[21-Feb-2019 23:52:24 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[21-Feb-2019 23:52:24 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[22-Feb-2019 10:23:11 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[22-Feb-2019 10:23:11 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[22-Feb-2019 10:31:37 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[22-Feb-2019 10:31:37 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[22-Feb-2019 13:00:32 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[22-Feb-2019 13:00:32 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[22-Feb-2019 13:11:21 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[22-Feb-2019 13:11:21 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[22-Feb-2019 13:17:43 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[22-Feb-2019 13:17:43 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[22-Feb-2019 13:18:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[22-Feb-2019 13:18:15 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[22-Feb-2019 15:41:37 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[22-Feb-2019 15:41:37 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[22-Feb-2019 15:55:16 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[22-Feb-2019 15:55:16 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[22-Feb-2019 15:56:51 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[22-Feb-2019 15:56:51 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[22-Feb-2019 16:05:12 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[22-Feb-2019 16:05:12 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[22-Feb-2019 16:09:51 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[22-Feb-2019 16:09:51 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[22-Feb-2019 17:55:43 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[22-Feb-2019 17:55:43 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[23-Feb-2019 22:00:28 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[23-Feb-2019 22:00:28 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[23-Feb-2019 22:33:01 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[23-Feb-2019 22:33:01 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[23-Feb-2019 22:34:54 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[23-Feb-2019 22:34:54 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[23-Feb-2019 22:52:16 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/seicolag/public_html/sistema/orden_index.php on line 278
+[23-Feb-2019 22:52:38 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/seicolag/public_html/sistema/orden_index.php on line 278
+[23-Feb-2019 23:12:17 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[23-Feb-2019 23:12:17 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[24-Feb-2019 17:42:50 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[24-Feb-2019 17:42:50 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[24-Feb-2019 18:50:30 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[24-Feb-2019 18:50:30 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[25-Feb-2019 11:16:12 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[25-Feb-2019 11:16:12 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[25-Feb-2019 13:27:26 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[25-Feb-2019 13:27:26 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[26-Feb-2019 00:40:48 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[26-Feb-2019 00:40:48 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[26-Feb-2019 10:40:46 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[26-Feb-2019 10:40:46 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[26-Feb-2019 12:18:49 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[26-Feb-2019 12:18:49 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[27-Feb-2019 10:20:28 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[27-Feb-2019 10:20:28 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[27-Feb-2019 11:21:56 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[27-Feb-2019 11:21:56 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[27-Feb-2019 11:24:06 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[27-Feb-2019 11:24:06 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[27-Feb-2019 11:28:50 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[27-Feb-2019 11:28:50 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[27-Feb-2019 11:28:55 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[27-Feb-2019 11:28:55 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[27-Feb-2019 13:55:53 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[27-Feb-2019 13:55:53 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[27-Feb-2019 13:56:20 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[27-Feb-2019 13:56:20 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[27-Feb-2019 13:59:09 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[27-Feb-2019 13:59:09 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[27-Feb-2019 14:08:31 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[27-Feb-2019 14:08:31 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[27-Feb-2019 14:12:02 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[27-Feb-2019 14:12:02 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[27-Feb-2019 14:13:34 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[27-Feb-2019 14:13:34 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[27-Feb-2019 14:14:32 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[27-Feb-2019 14:14:32 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[27-Feb-2019 14:16:21 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[27-Feb-2019 14:16:21 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[27-Feb-2019 14:21:02 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[27-Feb-2019 14:21:02 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[27-Feb-2019 14:21:37 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[27-Feb-2019 14:21:37 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[27-Feb-2019 14:22:02 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[27-Feb-2019 14:22:02 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[27-Feb-2019 14:22:30 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[27-Feb-2019 14:22:30 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[27-Feb-2019 14:23:24 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[27-Feb-2019 14:23:24 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[27-Feb-2019 14:23:25 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[27-Feb-2019 14:23:25 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[27-Feb-2019 14:23:54 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[27-Feb-2019 14:23:54 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[27-Feb-2019 14:24:04 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[27-Feb-2019 14:24:04 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[27-Feb-2019 14:24:08 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[27-Feb-2019 14:24:08 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[27-Feb-2019 14:24:09 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[27-Feb-2019 14:24:09 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[27-Feb-2019 14:38:18 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[27-Feb-2019 14:38:18 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[27-Feb-2019 14:38:50 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[27-Feb-2019 14:38:50 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[27-Feb-2019 14:39:04 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[27-Feb-2019 14:39:04 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[27-Feb-2019 14:39:32 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[27-Feb-2019 14:39:32 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[27-Feb-2019 14:41:43 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[27-Feb-2019 14:41:43 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[27-Feb-2019 15:36:53 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[27-Feb-2019 15:36:53 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[27-Feb-2019 20:48:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[27-Feb-2019 20:48:14 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[27-Feb-2019 23:20:26 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[27-Feb-2019 23:20:26 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[28-Feb-2019 01:09:10 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[28-Feb-2019 01:09:10 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[28-Feb-2019 10:16:46 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[28-Feb-2019 10:16:46 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[28-Feb-2019 11:37:36 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[28-Feb-2019 11:37:36 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[28-Feb-2019 12:55:09 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[28-Feb-2019 12:55:10 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[28-Feb-2019 15:08:10 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[28-Feb-2019 15:08:10 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[28-Feb-2019 15:30:34 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[28-Feb-2019 15:30:34 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[28-Feb-2019 16:07:46 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[28-Feb-2019 16:07:46 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[28-Feb-2019 22:12:22 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[28-Feb-2019 22:12:22 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[28-Feb-2019 23:46:32 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[28-Feb-2019 23:46:32 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[01-Mar-2019 10:27:45 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[01-Mar-2019 10:27:45 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[01-Mar-2019 11:19:40 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[01-Mar-2019 11:19:40 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[01-Mar-2019 15:19:10 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[01-Mar-2019 15:19:10 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[01-Mar-2019 16:27:12 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[01-Mar-2019 16:27:12 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[01-Mar-2019 16:59:45 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[01-Mar-2019 16:59:45 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[01-Mar-2019 17:37:54 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[01-Mar-2019 17:37:54 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[01-Mar-2019 22:08:29 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[01-Mar-2019 22:08:29 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[02-Mar-2019 01:56:35 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[02-Mar-2019 01:56:35 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[04-Mar-2019 10:15:17 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[04-Mar-2019 10:15:17 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[04-Mar-2019 10:39:19 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[04-Mar-2019 10:39:19 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[04-Mar-2019 10:57:36 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[04-Mar-2019 10:57:36 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[04-Mar-2019 11:43:39 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[04-Mar-2019 11:43:39 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[04-Mar-2019 11:43:41 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[04-Mar-2019 11:43:41 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[04-Mar-2019 11:46:53 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[04-Mar-2019 11:46:53 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[04-Mar-2019 11:47:02 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[04-Mar-2019 11:47:02 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[04-Mar-2019 11:47:22 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/seicolag/public_html/sistema/data2.php on line 26
+[04-Mar-2019 11:48:06 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/seicolag/public_html/sistema/data2.php on line 26
+[04-Mar-2019 11:49:32 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/seicolag/public_html/sistema/data2.php on line 26
+[04-Mar-2019 11:51:04 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/seicolag/public_html/sistema/data2.php on line 26
+[04-Mar-2019 11:51:41 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 30
+[04-Mar-2019 11:51:41 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 35
+[04-Mar-2019 11:51:46 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 30
+[04-Mar-2019 11:51:46 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 35
+[04-Mar-2019 11:52:38 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[04-Mar-2019 11:52:38 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[04-Mar-2019 11:55:52 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[04-Mar-2019 11:55:52 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[04-Mar-2019 11:57:23 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[04-Mar-2019 11:57:23 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[04-Mar-2019 11:57:44 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[04-Mar-2019 11:57:44 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[04-Mar-2019 12:01:22 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[04-Mar-2019 12:01:22 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[04-Mar-2019 12:03:34 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[04-Mar-2019 12:03:34 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[04-Mar-2019 12:06:40 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 28
+[04-Mar-2019 12:06:40 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 33
+[04-Mar-2019 12:16:11 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/seicolag/public_html/sistema/data2.php on line 26
+[04-Mar-2019 12:17:12 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/seicolag/public_html/sistema/data2.php on line 26
+[04-Mar-2019 12:17:31 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/seicolag/public_html/sistema/data2.php on line 26
+[04-Mar-2019 12:37:08 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/seicolag/public_html/sistema/data2.php on line 26
+[04-Mar-2019 12:37:17 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/seicolag/public_html/sistema/data2.php on line 26
+[04-Mar-2019 12:37:35 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/seicolag/public_html/sistema/data2.php on line 26
+[04-Mar-2019 12:38:33 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/seicolag/public_html/sistema/data2.php on line 26
+[04-Mar-2019 12:38:57 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/seicolag/public_html/sistema/data2.php on line 26
+[04-Mar-2019 12:39:23 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/seicolag/public_html/sistema/data2.php on line 26
+[04-Mar-2019 12:42:24 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/seicolag/public_html/sistema/data2.php on line 26
+[04-Mar-2019 12:43:44 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/seicolag/public_html/sistema/data2.php on line 26
+[04-Mar-2019 12:44:05 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/seicolag/public_html/sistema/data2.php on line 26
+[04-Mar-2019 12:50:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 30
+[04-Mar-2019 12:50:58 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 35
+[04-Mar-2019 12:53:02 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 30
+[04-Mar-2019 12:53:02 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 35
+[04-Mar-2019 12:53:06 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 30
+[04-Mar-2019 12:53:06 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 35
+[04-Mar-2019 12:54:00 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 30
+[04-Mar-2019 12:54:00 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 35
+[04-Mar-2019 12:55:30 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 30
+[04-Mar-2019 12:55:30 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 35
+[04-Mar-2019 12:55:39 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 30
+[04-Mar-2019 12:55:39 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 35
+[04-Mar-2019 12:57:36 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 30
+[04-Mar-2019 12:57:36 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 35
+[04-Mar-2019 12:58:02 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 30
+[04-Mar-2019 12:58:02 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 35
+[04-Mar-2019 12:58:32 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 30
+[04-Mar-2019 12:58:32 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 35
+[04-Mar-2019 13:01:40 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 30
+[04-Mar-2019 13:01:40 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/seicolag/public_html/sistema/data2.php on line 35
+[06-Mar-2019 15:33:24 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/seicolag/public_html/sistema/check_login.php on line 11
+[06-Mar-2019 15:33:24 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/check_login.php:11) in /home/seicolag/public_html/sistema/check_login.php on line 30
+[06-Mar-2019 15:35:41 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/seicolag/public_html/sistema/check_login.php on line 11
+[06-Mar-2019 15:35:41 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/check_login.php:11) in /home/seicolag/public_html/sistema/check_login.php on line 30
+[06-Mar-2019 15:35:59 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/seicolag/public_html/sistema/check_login.php on line 11
+[06-Mar-2019 15:35:59 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/check_login.php:11) in /home/seicolag/public_html/sistema/check_login.php on line 30
+[06-Mar-2019 15:39:29 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/seicolag/public_html/sistema/check_login.php on line 11
+[06-Mar-2019 15:39:29 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/check_login.php:11) in /home/seicolag/public_html/sistema/check_login.php on line 30
+[06-Mar-2019 15:41:15 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/seicolag/public_html/sistema/check_login.php on line 11
+[06-Mar-2019 15:41:15 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/check_login.php:11) in /home/seicolag/public_html/sistema/check_login.php on line 30
+[07-Mar-2019 11:56:59 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[12-Mar-2019 13:22:26 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/seicolag/public_html/sistema/orden_index.php on line 89
+[19-Mar-2019 11:14:22 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[25-Mar-2019 20:53:05 America/Mexico_City] PHP Warning:  include(modals_ordenes/modal5.php): failed to open stream: No such file or directory in /home/seicolag/public_html/sistema/ordenes_index.php on line 300
+[25-Mar-2019 20:53:05 America/Mexico_City] PHP Warning:  include(modals_ordenes/modal5.php): failed to open stream: No such file or directory in /home/seicolag/public_html/sistema/ordenes_index.php on line 300
+[25-Mar-2019 20:53:05 America/Mexico_City] PHP Warning:  include(): Failed opening 'modals_ordenes/modal5.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/seicolag/public_html/sistema/ordenes_index.php on line 300
+[25-Mar-2019 20:54:01 America/Mexico_City] PHP Warning:  include(../modals_ordenes/modal5.php): failed to open stream: No such file or directory in /home/seicolag/public_html/sistema/ordenes_index.php on line 300
+[25-Mar-2019 20:54:01 America/Mexico_City] PHP Warning:  include(../modals_ordenes/modal5.php): failed to open stream: No such file or directory in /home/seicolag/public_html/sistema/ordenes_index.php on line 300
+[25-Mar-2019 20:54:01 America/Mexico_City] PHP Warning:  include(): Failed opening '../modals_ordenes/modal5.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/seicolag/public_html/sistema/ordenes_index.php on line 300
+[01-Apr-2019 15:34:07 America/Mexico_City] PHP Warning:  include(./crud_orden_compra/modals_pagos/modal1_nueva_orden.php): failed to open stream: No such file or directory in /home/seicolag/public_html/sistema/pago_proveedor_index.php on line 42
+[01-Apr-2019 15:34:07 America/Mexico_City] PHP Warning:  include(./crud_orden_compra/modals_pagos/modal1_nueva_orden.php): failed to open stream: No such file or directory in /home/seicolag/public_html/sistema/pago_proveedor_index.php on line 42
+[01-Apr-2019 15:34:07 America/Mexico_City] PHP Warning:  include(): Failed opening './crud_orden_compra/modals_pagos/modal1_nueva_orden.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/seicolag/public_html/sistema/pago_proveedor_index.php on line 42
+[01-Apr-2019 15:34:07 America/Mexico_City] PHP Warning:  include(./crud_orden_compra/modals_pagos/modal3_ver_pago.php): failed to open stream: No such file or directory in /home/seicolag/public_html/sistema/pago_proveedor_index.php on line 45
+[01-Apr-2019 15:34:07 America/Mexico_City] PHP Warning:  include(./crud_orden_compra/modals_pagos/modal3_ver_pago.php): failed to open stream: No such file or directory in /home/seicolag/public_html/sistema/pago_proveedor_index.php on line 45
+[01-Apr-2019 15:34:07 America/Mexico_City] PHP Warning:  include(): Failed opening './crud_orden_compra/modals_pagos/modal3_ver_pago.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/seicolag/public_html/sistema/pago_proveedor_index.php on line 45
+[01-Apr-2019 15:34:07 America/Mexico_City] PHP Warning:  include(./crud_orden_compra/modals_pagos/modal5_cambiar_estatus.php): failed to open stream: No such file or directory in /home/seicolag/public_html/sistema/pago_proveedor_index.php on line 48
+[01-Apr-2019 15:34:07 America/Mexico_City] PHP Warning:  include(./crud_orden_compra/modals_pagos/modal5_cambiar_estatus.php): failed to open stream: No such file or directory in /home/seicolag/public_html/sistema/pago_proveedor_index.php on line 48
+[01-Apr-2019 15:34:07 America/Mexico_City] PHP Warning:  include(): Failed opening './crud_orden_compra/modals_pagos/modal5_cambiar_estatus.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/seicolag/public_html/sistema/pago_proveedor_index.php on line 48
+[01-Apr-2019 15:34:42 America/Mexico_City] PHP Warning:  include(./crud_pago_proveedor/modals_pagos/modal1_nueva_orden.php): failed to open stream: No such file or directory in /home/seicolag/public_html/sistema/pago_proveedor_index.php on line 42
+[01-Apr-2019 15:34:42 America/Mexico_City] PHP Warning:  include(./crud_pago_proveedor/modals_pagos/modal1_nueva_orden.php): failed to open stream: No such file or directory in /home/seicolag/public_html/sistema/pago_proveedor_index.php on line 42
+[01-Apr-2019 15:34:42 America/Mexico_City] PHP Warning:  include(): Failed opening './crud_pago_proveedor/modals_pagos/modal1_nueva_orden.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/seicolag/public_html/sistema/pago_proveedor_index.php on line 42
+[01-Apr-2019 15:34:45 America/Mexico_City] PHP Warning:  include(./crud_pago_proveedor/modals_pagos/modal1_nueva_orden.php): failed to open stream: No such file or directory in /home/seicolag/public_html/sistema/pago_proveedor_index.php on line 42
+[01-Apr-2019 15:34:45 America/Mexico_City] PHP Warning:  include(./crud_pago_proveedor/modals_pagos/modal1_nueva_orden.php): failed to open stream: No such file or directory in /home/seicolag/public_html/sistema/pago_proveedor_index.php on line 42
+[01-Apr-2019 15:34:45 America/Mexico_City] PHP Warning:  include(): Failed opening './crud_pago_proveedor/modals_pagos/modal1_nueva_orden.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/seicolag/public_html/sistema/pago_proveedor_index.php on line 42
+[15-Apr-2019 16:24:17 America/Mexico_City] PHP Fatal error:  Call to a member function prepare() on null in /home/seicolag/public_html/sistema/crud_pago_proveedor/tabla_pagos/tabla_pagos.php on line 26
+[15-Apr-2019 16:26:09 America/Mexico_City] PHP Fatal error:  Call to a member function prepare() on null in /home/seicolag/public_html/sistema/crud_pago_proveedor/tabla_pagos/tabla_pagos.php on line 26
+[17-Apr-2019 13:06:42 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[01-May-2019 18:21:04 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[02-May-2019 10:55:41 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[02-May-2019 11:01:35 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[06-May-2019 10:30:59 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[06-May-2019 10:37:08 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[06-May-2019 12:52:13 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[06-May-2019 13:24:10 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/pago_proveedor_index.php on line 10
+[07-May-2019 15:33:14 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[08-May-2019 12:04:22 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[08-May-2019 13:16:18 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[09-May-2019 10:53:15 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[10-May-2019 12:53:42 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[13-May-2019 12:08:00 America/Mexico_City] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/seicolag/public_html/sistema/pago_proveedor_index.php on line 15
+[13-May-2019 15:00:24 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[13-May-2019 15:44:28 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[13-May-2019 15:47:50 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[14-May-2019 12:57:36 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[14-May-2019 13:53:45 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[14-May-2019 13:54:30 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/seicolag/public_html/sistema/check_login.php on line 9
+[14-May-2019 13:54:31 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/seicolag/public_html/sistema/check_login.php on line 10
+[14-May-2019 13:54:31 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/seicolag/public_html/sistema/check_login.php on line 11
+[14-May-2019 13:54:31 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/check_login.php:9) in /home/seicolag/public_html/sistema/check_login.php on line 30
+[14-May-2019 13:55:29 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/seicolag/public_html/sistema/check_login.php on line 9
+[14-May-2019 13:55:29 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/seicolag/public_html/sistema/check_login.php on line 10
+[14-May-2019 13:55:29 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/seicolag/public_html/sistema/check_login.php on line 11
+[14-May-2019 13:55:29 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/check_login.php:9) in /home/seicolag/public_html/sistema/check_login.php on line 30
+[14-May-2019 13:59:41 America/Mexico_City] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/seicolag/public_html/sistema/check_login.php on line 9
+[14-May-2019 14:00:04 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/seicolag/public_html/sistema/check_login.php on line 10
+[14-May-2019 14:00:06 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/seicolag/public_html/sistema/check_login.php on line 11
+[14-May-2019 14:00:06 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/check_login.php:9) in /home/seicolag/public_html/sistema/check_login.php on line 30
+[14-May-2019 14:11:07 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[14-May-2019 14:57:09 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[14-May-2019 15:00:37 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/seicolag/public_html/sistema/data2.php on line 13
+[14-May-2019 15:00:37 America/Mexico_City] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/seicolag/public_html/sistema/data2.php on line 26
+[14-May-2019 15:00:37 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 30
+[14-May-2019 15:00:37 America/Mexico_City] PHP Fatal error:  Call to a member function close() on null in /home/seicolag/public_html/sistema/data2.php on line 35
+[14-May-2019 16:04:06 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[14-May-2019 16:43:22 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[14-May-2019 16:56:08 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[14-May-2019 17:04:45 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[14-May-2019 17:41:13 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[15-May-2019 15:39:34 America/Mexico_City] PHP Warning:  require_once(../db_config.php): failed to open stream: No such file or directory in /home/seicolag/public_html/sistema/catalogo_concepto.php on line 2
+[15-May-2019 15:39:34 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required '../db_config.php' (include_path='.:/opt/php56/lib/php') in /home/seicolag/public_html/sistema/catalogo_concepto.php on line 2
+[15-May-2019 15:40:05 America/Mexico_City] PHP Warning:  require_once(../db_config.php): failed to open stream: No such file or directory in /home/seicolag/public_html/sistema/catalogo_concepto.php on line 2
+[15-May-2019 15:40:05 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required '../db_config.php' (include_path='.:/opt/php56/lib/php') in /home/seicolag/public_html/sistema/catalogo_concepto.php on line 2
+[15-May-2019 15:45:30 America/Mexico_City] PHP Warning:  require_once(crud_catalogo/modal1.php): failed to open stream: No such file or directory in /home/seicolag/public_html/sistema/catalogo_concepto.php on line 4
+[15-May-2019 15:45:30 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required 'crud_catalogo/modal1.php' (include_path='.:/opt/php56/lib/php') in /home/seicolag/public_html/sistema/catalogo_concepto.php on line 4
+[28-May-2019 14:01:30 America/Mexico_City] PHP Fatal error:  Call to a member function prepare() on null in /home/seicolag/public_html/sistema/obra_index.php on line 66
+[28-May-2019 14:01:47 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '192.185.131.25' (111) in /home/seicolag/public_html/sistema/check_login.php on line 9
+[28-May-2019 14:01:47 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/seicolag/public_html/sistema/check_login.php on line 10
+[28-May-2019 14:01:47 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/seicolag/public_html/sistema/check_login.php on line 11
+[28-May-2019 14:01:47 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/check_login.php:9) in /home/seicolag/public_html/sistema/check_login.php on line 30
+[28-May-2019 14:01:59 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '192.185.131.25' (111) in /home/seicolag/public_html/sistema/check_login.php on line 9
+[28-May-2019 14:01:59 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/seicolag/public_html/sistema/check_login.php on line 10
+[28-May-2019 14:01:59 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/seicolag/public_html/sistema/check_login.php on line 11
+[28-May-2019 14:01:59 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/check_login.php:9) in /home/seicolag/public_html/sistema/check_login.php on line 30
+[28-May-2019 14:02:09 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '192.185.131.25' (111) in /home/seicolag/public_html/sistema/check_login.php on line 9
+[28-May-2019 14:02:09 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/seicolag/public_html/sistema/check_login.php on line 10
+[28-May-2019 14:02:09 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/seicolag/public_html/sistema/check_login.php on line 11
+[28-May-2019 14:02:09 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/check_login.php:9) in /home/seicolag/public_html/sistema/check_login.php on line 30
+[28-May-2019 14:02:37 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '192.185.131.25' (111) in /home/seicolag/public_html/sistema/check_login.php on line 9
+[28-May-2019 14:02:37 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/seicolag/public_html/sistema/check_login.php on line 10
+[28-May-2019 14:02:37 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/seicolag/public_html/sistema/check_login.php on line 11
+[28-May-2019 14:02:37 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/check_login.php:9) in /home/seicolag/public_html/sistema/check_login.php on line 30
+[28-May-2019 14:02:58 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '192.185.131.25' (111) in /home/seicolag/public_html/sistema/check_login.php on line 9
+[28-May-2019 14:02:58 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/seicolag/public_html/sistema/check_login.php on line 10
+[28-May-2019 14:02:58 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/seicolag/public_html/sistema/check_login.php on line 11
+[28-May-2019 14:02:58 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/check_login.php:9) in /home/seicolag/public_html/sistema/check_login.php on line 30
+[28-May-2019 14:03:08 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '192.185.131.25' (111) in /home/seicolag/public_html/sistema/check_login.php on line 9
+[28-May-2019 14:03:08 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/seicolag/public_html/sistema/check_login.php on line 10
+[28-May-2019 14:03:08 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/seicolag/public_html/sistema/check_login.php on line 11
+[28-May-2019 14:03:08 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/check_login.php:9) in /home/seicolag/public_html/sistema/check_login.php on line 30
+[28-May-2019 14:04:26 America/Mexico_City] PHP Fatal error:  Call to a member function prepare() on null in /home/seicolag/public_html/sistema/obra_index.php on line 66
+[28-May-2019 14:04:32 America/Mexico_City] PHP Fatal error:  Call to a member function prepare() on null in /home/seicolag/public_html/sistema/obra_index.php on line 66
+[28-May-2019 14:04:54 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '192.185.131.25' (111) in /home/seicolag/public_html/sistema/check_login.php on line 9
+[28-May-2019 14:04:54 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/seicolag/public_html/sistema/check_login.php on line 10
+[28-May-2019 14:04:54 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/seicolag/public_html/sistema/check_login.php on line 11
+[28-May-2019 14:04:54 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/check_login.php:9) in /home/seicolag/public_html/sistema/check_login.php on line 30
+[28-May-2019 17:55:26 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[28-May-2019 18:40:09 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[03-Jun-2019 19:15:57 America/Mexico_City] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 72 bytes) in /home/seicolag/public_html/sistema/data.php on line 28
+[03-Jun-2019 19:16:30 America/Mexico_City] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32 bytes) in /home/seicolag/public_html/sistema/data.php on line 28
+[05-Jun-2019 16:50:58 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '192.185.131.25' (111) in /home/seicolag/public_html/sistema/data.php on line 13
+[05-Jun-2019 16:50:58 America/Mexico_City] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/seicolag/public_html/sistema/data.php on line 24
+[05-Jun-2019 16:50:58 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '192.185.131.25' (111) in /home/seicolag/public_html/sistema/data2.php on line 13
+[05-Jun-2019 16:50:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data.php on line 28
+[05-Jun-2019 16:50:58 America/Mexico_City] PHP Fatal error:  Call to a member function close() on null in /home/seicolag/public_html/sistema/data.php on line 33
+[05-Jun-2019 16:50:58 America/Mexico_City] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/seicolag/public_html/sistema/data2.php on line 26
+[05-Jun-2019 16:50:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 30
+[05-Jun-2019 16:50:58 America/Mexico_City] PHP Fatal error:  Call to a member function close() on null in /home/seicolag/public_html/sistema/data2.php on line 35
+[05-Jun-2019 16:51:08 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '192.185.131.25' (111) in /home/seicolag/public_html/sistema/data.php on line 13
+[05-Jun-2019 16:51:08 America/Mexico_City] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/seicolag/public_html/sistema/data.php on line 24
+[05-Jun-2019 16:51:08 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data.php on line 28
+[05-Jun-2019 16:51:08 America/Mexico_City] PHP Fatal error:  Call to a member function close() on null in /home/seicolag/public_html/sistema/data.php on line 33
+[05-Jun-2019 16:51:08 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '192.185.131.25' (111) in /home/seicolag/public_html/sistema/data2.php on line 13
+[05-Jun-2019 16:51:08 America/Mexico_City] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/seicolag/public_html/sistema/data2.php on line 26
+[05-Jun-2019 16:51:08 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/seicolag/public_html/sistema/data2.php on line 30
+[05-Jun-2019 16:51:08 America/Mexico_City] PHP Fatal error:  Call to a member function close() on null in /home/seicolag/public_html/sistema/data2.php on line 35
+[05-Jun-2019 16:51:14 America/Mexico_City] PHP Fatal error:  Call to a member function prepare() on null in /home/seicolag/public_html/sistema/crud_modelo/modal2.php on line 14
+[05-Jun-2019 16:52:27 America/Mexico_City] PHP Fatal error:  Call to a member function prepare() on null in /home/seicolag/public_html/sistema/crud_modelo/modal2.php on line 14
+[05-Jun-2019 16:59:02 America/Mexico_City] PHP Warning:  include(./crud_modelo/tabla_modelos.php): failed to open stream: No such file or directory in /home/seicolag/public_html/sistema/catalogo_modelo.php on line 27
+[05-Jun-2019 16:59:02 America/Mexico_City] PHP Warning:  include(./crud_modelo/tabla_modelos.php): failed to open stream: No such file or directory in /home/seicolag/public_html/sistema/catalogo_modelo.php on line 27
+[05-Jun-2019 16:59:02 America/Mexico_City] PHP Warning:  include(): Failed opening './crud_modelo/tabla_modelos.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/seicolag/public_html/sistema/catalogo_modelo.php on line 27
+[05-Jun-2019 17:00:04 America/Mexico_City] PHP Warning:  include(/crud_modelo/tabla_modelos.php): failed to open stream: No such file or directory in /home/seicolag/public_html/sistema/catalogo_modelo.php on line 27
+[05-Jun-2019 17:00:04 America/Mexico_City] PHP Warning:  include(): Failed opening '/crud_modelo/tabla_modelos.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/seicolag/public_html/sistema/catalogo_modelo.php on line 27
+[05-Jun-2019 17:01:48 America/Mexico_City] PHP Warning:  include(../crud_modelo/tabla_modelos.php): failed to open stream: No such file or directory in /home/seicolag/public_html/sistema/catalogo_modelo.php on line 27
+[05-Jun-2019 17:01:48 America/Mexico_City] PHP Warning:  include(../crud_modelo/tabla_modelos.php): failed to open stream: No such file or directory in /home/seicolag/public_html/sistema/catalogo_modelo.php on line 27
+[05-Jun-2019 17:01:48 America/Mexico_City] PHP Warning:  include(): Failed opening '../crud_modelo/tabla_modelos.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/seicolag/public_html/sistema/catalogo_modelo.php on line 27
+[05-Jun-2019 17:01:48 America/Mexico_City] PHP Fatal error:  Call to a member function prepare() on null in /home/seicolag/public_html/sistema/crud_modelo/modal2.php on line 14
+[05-Jun-2019 17:02:28 America/Mexico_City] PHP Warning:  require_once(crud_modelo/tabla_modelos.php): failed to open stream: No such file or directory in /home/seicolag/public_html/sistema/catalogo_modelo.php on line 27
+[05-Jun-2019 17:02:28 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required 'crud_modelo/tabla_modelos.php' (include_path='.:/opt/php56/lib/php') in /home/seicolag/public_html/sistema/catalogo_modelo.php on line 27
+[10-Jun-2019 14:38:11 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/seicolag/public_html/sistema/crud_proyecto/modalT.php on line 81
+[10-Jun-2019 14:39:38 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home/seicolag/public_html/sistema/crud_proyecto/modalT.php on line 81
+[12-Jun-2019 11:15:28 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[12-Jun-2019 12:20:53 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/seicolag/public_html/sistema/smenu.php:11) in /home/seicolag/public_html/sistema/menu.php on line 9
+[17-Jun-2019 12:25:34 America/Mexico_City] PHP Fatal error:  Call to a member function prepare() on null in /home/seicolag/public_html/sistema/crud_modelo/tabla_modelos.php on line 17

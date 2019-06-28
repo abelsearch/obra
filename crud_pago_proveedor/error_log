@@ -1,0 +1,1 @@
+[02-Apr-2019 16:30:30 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$nombre' (T_VARIABLE) in /home/seicolag/public_html/sistema/crud_pago_proveedor/pago_anticipo.php on line 10

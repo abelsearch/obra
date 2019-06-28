@@ -5,7 +5,7 @@ if($_POST['edit_id'])
 {
 $id = $_POST['edit_id'];
 try{ 
-$stmt=$db_con->prepare("SELECT * FROM servicio WHERE id=:id");
+$stmt=$db_con->prepare("SELECT * FROM concepto WHERE id=:id");
 if($stmt->execute(array(':id'=>$id)))
 {
 $response = "<center><form>";

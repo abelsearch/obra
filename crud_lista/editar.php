@@ -17,10 +17,7 @@ $descripcion=$row['descripcion'];
 $unidad=$row['unidad']; 
 $cantidad=$row['cantidad']; 
 $precio_unitario = $row['precio_unitario'];
-$importe=$row['importe']; 
-$cantidad_real=$row['cantidad_real']; 
-$precio_real=$row['precio_real']; 
-$importe_real=$row['importe_real']; 
+
 
 //$response .= "<div class=".'form-group'.">";
  $response .= "<input type=".'hidden'." id=".'folio_orden'."  value='".$folio_orden."'>";
@@ -46,21 +43,6 @@ $importe_real=$row['importe_real'];
  $response .= "<b>Precio Unitario:</b> <input type=".'text'." id=".'precio_unitario'."  value='".$precio_unitario."' style=".'border:none;'."".'text-align:center;'.">";
  //$response .= "</tr>";
 
- //$response .= "<tr>";
- $response .= "<b>Importe:</b> <input type=".'text'." id=".'importe'."  value='".$importe."' style=".'border:none;'."".'text-align:center;'.">";
- //$response .= "</tr>"; 
-
-  //$response .= "<tr>";
- $response .= "<b>Cantidad Real</b> <input type=".'text'." id=".'cantidad_real'." value='".$cantidad_real."' style=".'border:none;'."".'text-align:center;'.">";
- //$response .= "</tr>";
-
- //$response .= "<tr>";
- $response .= "<b>Precio Real:</b> <input type=".'text'." id=".'precio_real'."  value='".$precio_real."' style=".'border:none;'."".'text-align:center;'.">";
- //$response .= "</tr>";
-
- //$response .= "<tr>";
- $response .= "<b>Importe Real:</b> <input type=".'text'." id=".'importe_real'."  value='".$importe_real."' style=".'border:none;'."".'text-align:center;'.">";
- //$response .= "</tr>";  
 
  //$response .= "<div class=".'form-group'.">";
  $response .= "<input type=".'text'." id=".'tipo_insumo'."  value='".$tipo_insumo."'>";

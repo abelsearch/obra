@@ -1,0 +1,57 @@
+/*
+  -----SIDE NAV-------------------------------
+
+  NARANJA #ffb74d orange lighten-2
+
+  AZUL MODULOS #42a5f5 blue lighten-1
+
+  FONDO DEL LOGO #eceff1 blue-grey lighten-5
+
+  -----NAVBAR---------------------------------- 
+
+  AZUL #90caf9 blue lighten-3
+
+  -----GENERALES-------------------------------
+
+  NARANJA FUERTE #ffb74d orange lighten-2
+
+  NARANJA CLARO #ffcc80 orange lighten-3
+
+  PURPURA FUERTE #8e24aa purple darken-1
+
+  PURPURA CLARO #e1bee7 purple lighten-4
+
+  GRIS FUERTE #757575 grey darken-1
+
+  GRIS CLARO #bdbdbd grey lighten-1
+
+  ----------------------------------------------*/
+
+.color-menu {/*Color de los menús de íconos NARANJA*/
+  background: -webkit-linear-gradient(90deg, #ffba75 10%, #ff7514 90%);
+  background:    -moz-linear-gradient(90deg, #ffba75 10%, #ff7514 90%);
+  background:     -ms-linear-gradient(90deg, #ffba75 10%, #ff7514 90%);
+  background:      -o-linear-gradient(90deg, #ffba75 10%, #ff7514 90%);
+  background:         linear-gradient(90deg, #ffba75 10%, #ff7514 90%);
+}
+.color-smenu{/*Color del SideNav AZUK pastel y VERDE pastel*/
+  background: -webkit-linear-gradient(90deg, #00838f 30%, #0097a7 70%);
+  background:    -moz-linear-gradient(90deg, #00838f 30%, #0097a7 70%);
+  background:     -ms-linear-gradient(90deg, #00838f 30%, #0097a7 70%);
+  background:      -o-linear-gradient(90deg, #00838f 30%, #0097a7 70%);
+  background:         linear-gradient(90deg, #00838f 30%, #0097a7 70%);
+}
+.color-li-menu{/*Color de los titulos del menú VERDE pastel*/
+  background: -webkit-linear-gradient(90deg, #00695c 30%, #00897b 70%);
+  background:    -moz-linear-gradient(90deg, #00695c 30%, #00897b 70%);
+  background:     -ms-linear-gradient(90deg, #00695c 30%, #00897b 70%);
+  background:      -o-linear-gradient(90deg, #00695c 30%, #00897b 70%);
+  background:         linear-gradient(90deg, #00695c 30%, #00897b 70%);
+}
+.color-fondo{
+  background: -webkit-linear-gradient(90deg, #e0f2f1 30%, #b2dfdb 70%);
+  background:    -moz-linear-gradient(90deg, #e0f2f1 30%, #b2dfdb 70%);
+  background:     -ms-linear-gradient(90deg, #e0f2f1 30%, #b2dfdb 70%);
+  background:      -o-linear-gradient(90deg, #e0f2f1 30%, #b2dfdb 70%);
+  background:         linear-gradient(90deg, #e0f2f1 30%, #b2dfdb 70%);
+}

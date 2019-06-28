@@ -1,85 +1,80 @@
+<?php  
+session_start();
+if(isset($_SESSION['usuario'])){
+  $usuario = $_SESSION['usuario']; 
+  $tipo = $_SESSION['tipo']; 
+  $id = $_SESSION['id'];
+} 
+else
+header("Location: http://seicolaguna.com/sistema/logout.php");
+?>
+
 <?php require_once 'ti.php' ?> 
-
-<!DOCTYPE html>
-
 <html>
-<head>
-
-<link href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/css/materialize.min.css" rel="stylesheet" />	
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />	
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>	
-<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/js/materialize.min.js"></script>
+<head> 
+   <meta charset="utf-8">
+   <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+   <link type="text/css" rel="stylesheet" href="css/estilos.css"  media="screen,projection"/>
+   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+   <script src="/crud_obra/menu_iconos_index_obra.js" type="text/javascript"></script>
+   <script src="https://code.jquery.com/jquery-2.2.4.js" integrity="sha256-iT6Q9iMJYuQiMWNd9lDyBUStIq/8PuOW33aOqmvFpqI=" crossorigin="anonymous"></script>
+   <script src="js/materialize.min.js" type="text/javascript"></script> 
+   <script src="js/menu.js" type="text/javascript"></script> 
+     
+<title>SEICO</title>
 </head>
-<body> 
+<!--<body class="#eceff1 blue-grey lighten-4">Color de fondo del esccritorio-->
+  <!--Menú de cabecera de ICONOS-->
+  <nav class="color-menu"><!--Color del menú-->
+    <div class="nav-wrapper escritorio">  <!--Se usa la clase escritorio para pintar el menú donde termina el sidenav-->
+      <ul class="right hide-on-med-and-down" id="menu_iconos"> 
+        <li><a href="javascript:history.back()" id="back"><i class="material-icons">arrow_back</i></a></li>
+        <?php 
+          if($tipo == 1){
+          ?>  
+          <li><a href="http://seicolaguna.com/sistema/usuario_index.php"class="tooltipped" data-position="left" data-tooltip="Usuarios"><i class="material-icons white-text">supervised_user_circle</i></a></li> 
 
-<ul id="slide-out" class="side-nav #424242 grey darken-3" style="position:fixed;">  
+          <li><a href="http://seicolaguna.com/sistema/clave.php"class="tooltipped" data-position="left" data-tooltip="Claves"><i class="material-icons white-text">vpn_key</i></a></li> 
 
-<li class="center"><img src="img/logo_menu.PNG" style=" margin-top:9px;" class="circle"></li>
-
-<li class="#e0e0e0 grey lighten-2"><a href="http://127.0.0.1/obra/index.php" class="-textblack"><i class="material-icons" style="color:black;"></i>HOME</a></li> 
-
-<li><a href="http://127.0.0.1/obra/orden_index.php" class="white-text"><i class="material-icons" style="color:white;">create</i> Orden</a></li>    
-
-<li><a href="http://127.0.0.1/obra/cotizacion_index.php" class="white-text"><i class="material-icons" style="color:white;">attach_money</i> Cotizaciones</a></li>    
-
-<li><a href="http://127.0.0.1/obra/renta_index.php" class="white-text"><i class="material-icons" style="color:white;">folder</i> Renta</a></li>    
-
-
-<li><a href="http://127.0.0.1/obra/servicio_index.php" class="white-text"><i class="material-icons" style="color:white;">sort</i>Catálogo Servicios</a></li>
-
-<li><a href="http://127.0.0.1/obra/cliente_index.php" class="white-text"><i class="material-icons" style="color:white;">face</i>Cliente</a></li>  
-
-<li><a href="http://127.0.0.1/obra/adicional_index.php" class="white-text"><i class="material-icons" style="color:white;">build</i>Servicios Adicionales</a></li>  
-
-<li><a href="http://127.0.0.1/obra/extra_index.php" class="white-text"><i class="material-icons" style="color:white;">build</i>Servicios Extra</a></li>   
-
-<li><a href="http://127.0.0.1/obra/lista_index.php" class="white-text"><i class="material-icons" style="color:white;">sort</i>Lista de insumos</a></li>
-
-
-<li><a href="http://127.0.0.1/obra/usuario_index.php" class="white-text"><i class="material-icons" style="color:white;">person</i>Usuarios</a></li>
-
-
-<li><a href="http://127.0.0.1/obra/logout.php" class="white-text"><i class="material-icons" style="color:red;">power_settings_new</i>Cerrar Sesión</a></li>
-<!--     
-<li><a href="http://consultoriaiisac.com/obra/reporte_index.php"><i class="material-icons" style="color:black;"></i>Reporte</a></li> 
-<li><a href="http://consultoriaiisac.com/obra/lista_index.php"><i class="material-icons" style="color:black;"></i>Lista de insumos</a></li>  
-
-<li><a href="#"><i class="material-icons" style="color:black;">add_circle</i>Catálogo Materiales</a></li>         
+          <li><a href="http://seicolaguna.com/sistema/bitacora_obra.php" class="white-text"class="tooltipped" data-position="left" data-tooltip="Bitácora"><i class="material-icons white-text">track_changes</i></a> 
+          <?php
+          } 
+          else{ 
+          ?> 
+          <?php 
+          ?> 
+          <?php
+            } 
+        ?>    
+        <li><a href="http://seicolaguna.com/sistema/logout.php" class="tooltipped" data-position="left" data-tooltip="Cerrar Sesión"><i class="material-icons">cancel</i></a></li>
+      </ul>
+    </div>
+    <!--Termina menú cabecera de iconos-->
+    <!--Menú de tabs-->
    
-<li><a href="#"><i class="material-icons" style="color:black;">person</i>Administrador</a></li>    
--->
-</ul> 
-<div class="row black z-depth-5" >
-<div>
-<div class="row black z-depth-5" > 
-<div class="col l1 " id="menu" > 
-<a href="#" data-activates="slide-out" class="button-collapse" id="menu"> 
-<img src="img/logo_menu.PNG" style="width:50px; height:50px; margin-top:9px; position:fixed;" class="circle"> 
-</a> 
-</div> 
-
-
-
-<div class="col l2 white-text" style="margin-top: 1em; font-size: 18px">  
-<?php //session_start(); echo 'Usuario: '. $_SESSION['usuario']; ?>
-</div>
-
-
-
-<div class="col l2 white-text" style="margin-top: 1em; font-size: 18px">  
-<?php //session_start(); echo 'ID: '. $_SESSION['id']; ?>
-</div>
-
-
-</div> 
-</div> 
-</div>
+   </nav>
+           
 </body>
-</html>  
-<script>  
-$(".dropdown-button").dropdown();
-$(".button-collapse").sideNav();
-$(document).ready(function(){    
-});
+<!--Estilos para control de contenido-->
+<style type="text/css">
+ li.menu{
+  margin-left: 10px;
+ }
+ div.escritorio{
+  margin-left: 200px;
+ }
+ a.tabs-font{
+  font-size: 10px; 
+ }
+ li.tabs-font{
+  font-size: 10px;
+ }
+</style>
+<!--Scripts para control del contenido-->
+<script type="text/javascript">
+    $(document).ready(function(){
+    $('.sidenav').sidenav(); //Función JS para utilizar sidenav
+    $('.tooltipped').tooltip(); //Función js para utilizar tooltipped de iconos
+  });
 </script> 
-
+</html>

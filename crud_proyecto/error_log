@@ -1,0 +1,22 @@
+[03-Jun-2019 11:21:08 America/Mexico_City] PHP Parse error:  syntax error, unexpected '" class="' (T_CONSTANT_ENCAPSED_STRING) in /home/seicolag/public_html/sistema/crud_proyecto/ver.php on line 36
+[03-Jun-2019 11:22:46 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/seicolag/public_html/sistema/crud_proyecto/ver.php on line 36
+[03-Jun-2019 11:23:49 America/Mexico_City] PHP Parse error:  syntax error, unexpected '" class="' (T_CONSTANT_ENCAPSED_STRING) in /home/seicolag/public_html/sistema/crud_proyecto/ver.php on line 42
+[03-Jun-2019 18:56:37 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}' in /home/seicolag/public_html/sistema/crud_proyecto/ver.php on line 87
+[03-Jun-2019 18:57:48 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/seicolag/public_html/sistema/crud_proyecto/ver.php on line 16
+[03-Jun-2019 19:13:20 America/Mexico_City] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/seicolag/public_html/sistema/crud_proyecto/crear_obra.php on line 27
+[03-Jun-2019 19:15:09 America/Mexico_City] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/seicolag/public_html/sistema/crud_proyecto/crear_obra.php on line 24
+[03-Jun-2019 19:16:59 America/Mexico_City] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 504561074 bytes) in /home/seicolag/public_html/sistema/crud_proyecto/ver.php on line 39
+[03-Jun-2019 19:17:22 America/Mexico_City] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 504561074 bytes) in /home/seicolag/public_html/sistema/crud_proyecto/ver.php on line 39
+[03-Jun-2019 19:49:00 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$arreglo' (T_VARIABLE) in /home/seicolag/public_html/sistema/crud_proyecto/ver.php on line 31
+[03-Jun-2019 19:49:08 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$arreglo' (T_VARIABLE) in /home/seicolag/public_html/sistema/crud_proyecto/ver.php on line 31
+[03-Jun-2019 19:49:45 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$arreglo' (T_VARIABLE) in /home/seicolag/public_html/sistema/crud_proyecto/ver.php on line 31
+[10-Jun-2019 11:07:27 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$arreglo' (T_VARIABLE) in /home/seicolag/public_html/sistema/crud_proyecto/ver.php on line 46
+[10-Jun-2019 11:07:40 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$arreglo' (T_VARIABLE) in /home/seicolag/public_html/sistema/crud_proyecto/ver.php on line 46
+[10-Jun-2019 11:07:42 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$arreglo' (T_VARIABLE) in /home/seicolag/public_html/sistema/crud_proyecto/ver.php on line 46
+[10-Jun-2019 11:07:43 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$arreglo' (T_VARIABLE) in /home/seicolag/public_html/sistema/crud_proyecto/ver.php on line 46
+[10-Jun-2019 11:07:45 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$arreglo' (T_VARIABLE) in /home/seicolag/public_html/sistema/crud_proyecto/ver.php on line 46
+[10-Jun-2019 11:07:46 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$arreglo' (T_VARIABLE) in /home/seicolag/public_html/sistema/crud_proyecto/ver.php on line 46
+[10-Jun-2019 11:07:48 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$arreglo' (T_VARIABLE) in /home/seicolag/public_html/sistema/crud_proyecto/ver.php on line 46
+[10-Jun-2019 14:04:28 America/Mexico_City] PHP Parse error:  syntax error, unexpected ''"iDisplayLength": 5,'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/seicolag/public_html/sistema/crud_proyecto/ver.php on line 48
+[10-Jun-2019 14:04:30 America/Mexico_City] PHP Parse error:  syntax error, unexpected ''"iDisplayLength": 5,'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/seicolag/public_html/sistema/crud_proyecto/ver.php on line 48
+[10-Jun-2019 14:04:35 America/Mexico_City] PHP Parse error:  syntax error, unexpected ''"iDisplayLength": 5,'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/seicolag/public_html/sistema/crud_proyecto/ver.php on line 48
