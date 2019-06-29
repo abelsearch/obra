@@ -1,18 +1,18 @@
 function grafica_pie3(id){//indicadores de bienestar
   var total = [];
-  //var num_semana = [];
+  var num_semana = [];
   //var adicional = []; 
 
   $.getJSON('show3.php',{id:id},function(data){
     $.each(data,function(i,value){ 
       total.push(data[i].total);
       //adicional.push(data[i].adicional);
-      //num_semana.push(data[i].num_semana);
+      num_semana.push(data[i].num_semana);
       console.log(i+" "+value);
     }); 
 
     var chartdata = {
-                //labels: num_semana, 
+                labels: num_semana, 
                 datasets : [
                     {
                         label: 'Avance por M2',
@@ -28,7 +28,7 @@ function grafica_pie3(id){//indicadores de bienestar
             var ctx = $("#pie-chart3");
 
             var barGraph = new Chart(ctx, {
-                type: 'line',
+                type: 'bar',
                 data: chartdata
             });
   })

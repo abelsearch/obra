@@ -65,6 +65,7 @@ $('#modal2').modal('open');
 });
 //MODAL 2 
 
+
 //Obra
 $('#enviar2').click(function(){
 var id  = $('#2id').val();
@@ -78,6 +79,10 @@ var semana  = $('#semana').val();
 var presupuesto  = $('#presupuesto').val();
 var entidad  = $('#entidad').val(); 
 var ciudad  = $('#ciudad').val();
+
+
+
+
 
 if(rango=='')
 {
@@ -140,7 +145,9 @@ return false;
 }); 
 //IR
 
-
+$('#ayuda_editar_proyecto').click(function(){
+	alert("Hola, recuerda que esta pantalla te sirve para agregar mas lotes a tu proyecto. Puedes elegir distintos clientes y modelos, siempre y cuando esten debidamente registrados en el Módulo de <<Configuración>> del menú principal.");
+});
 //TOOLTIP
  $('.tooltipped').tooltip();
 //TOOLTIP

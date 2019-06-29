@@ -27,8 +27,15 @@
 			</table>
 		</div>
 	</div>
-	<div class="modal-footer">
-		<a href="#!" class="modal-action modal-close btn-flat" id="cancel"><i class="material-icons">close</i></a>
+	<div class="modal-footer red">
+     <div class="row">
+      <div class="col l2 m12 s12" style="margin-top:1em">
+        <a href="#" id="ayuda_ver_obras"><label class="white-text">¿Necesitas Ayuda?</label></a>
+      </div>
+      <div class="col l10 m12 s12">
+        <a href="#!" class="modal-action modal-close btn-flat" id="cancel"><i class="material-icons white-text">close</i></a>
+      </div>
+     </div>	
 	</div>
 </div>
 <script type="text/javascript">

@@ -13,7 +13,7 @@ $row=$stmt->fetch(PDO::FETCH_ASSOC);{
 $id = $row['id']; 
 $nombre=$row['nombre']; 
  
- $response .= "<br><input type=".'hidden'." id=".'2id'."  value=".$id.">";
+ $response .= "<input type=".'hidden'." id=".'2id'."  value=".$id.">";
  
 
  $response .= "<b>Nombre del Proyecto:</b> <input type=".'text'." id=".'2nombre'." value='".$nombre."' style=".'border:none;'."".'text-align:center;'." readonly>";

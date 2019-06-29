@@ -62,18 +62,15 @@ $row=$stmt->fetch(PDO::FETCH_ASSOC);
     <script src="modulo.js" type="text/javascript"></script>
   <title>Avance</title>
   </head>
-  <body>  
-    <div class="container">  
-      <div id="second" class="divSquare">
-        <div id="first" class="div-main col l12 m12 s12"> 
+  <body>
+      <div id="second" class="row">
+        <div id="first" class="col l6 m12 s12 "> 
           <canvas id="pie-chart2" style="width:150px; height:100px; vertical-align: middle;"></canvas> 
         </div>  
-        <div id="second"class="divSquare">   
-        <br>
+        <div id="second"class="col l6 m12 s12 ">
           <canvas id="pie-chart3" style="width:150px; height:100px; vertical-align: middle;"></canvas> 
         </div> 
-        <div id="third"class="divSquare">   
-        <br>
+        <div id="third"class="col l6 m12 s12 ">
           <canvas id="pie-chart4" style="width:150px; height:100px; vertical-align: middle;"></canvas> 
         </div> 
         
@@ -92,8 +89,7 @@ $row=$stmt->fetch(PDO::FETCH_ASSOC);
          <canvas id="pie-chart4" style="width:150px; height:100px; vertical-align: middle;"></canvas>  
         </div>
         -->
-      </div> 
-    </div> 
+      </div>
     <!--DATOS DE CONCEPTO--> 
     <script>
          $(function(){

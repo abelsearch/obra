@@ -30,5 +30,7 @@ $('.ver').click(function(){
 });
 
 
-
+$('#ayuda_ver_obras').click(function(){
+	alert("Hola, Aquí podrás visualizar todas las obras que están dentro de tu proyecto, desde aquí puedes actualizar datos de los campos que se muestran y dar click en <<Actualizar>> que es el ícono de lápiz verde, o puedes presionar en <<Acceder>> que es el ícono de la flecha azul, para que puedas entrar directo a esa obra.");
+});
 });	

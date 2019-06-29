@@ -16,7 +16,8 @@ if(!$mysqli){
 
 
 //query to get data from the table
-$query = sprintf("SELECT num_semana,insumo FROM semana WHERE folio = '$id'");
+$query = sprintf("SELECT SUM(cantidad) as cantidad, nombre_insumo  FROM salida_insumo  WHERE folio = '$id' GROUP BY nombre_insumo"); 
+//
 
 //execute query
 $result = $mysqli->query($query);

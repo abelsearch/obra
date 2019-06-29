@@ -17,8 +17,8 @@ if(!$mysqli){
 
 //query to get data from the table
 //$query = sprintf("SELECT num_semana,adicional FROM semana WHERE folio = '$id'"); 
-$query = sprintf("SELECT SUM(ac.cantidad) AS total FROM avance_concepto ac WHERE ac.unidad='M2' AND ac.folio='$id'");
-
+$query = sprintf("SELECT SUM(ac.cantidad) AS total, ac.num_semana FROM avance_concepto ac WHERE ac.unidad='M2' AND ac.folio='$id' GROUP BY ac.num_semana");
+// ac.folio='OBRA-56' 
 //execute query
 $result = $mysqli->query($query);
 
